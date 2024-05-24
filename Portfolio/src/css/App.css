@@ -1,0 +1,7 @@
+.bgapp {
+    background-repeat: no-repeat;
+    color: aliceblue;
+    background-image: url('https://codersfree.nyc3.cdn.digitaloceanspaces.com/posts/descubre-los-6-lenguajes-de-programacion-con-mas-demanda-en-el-2023.jpg');
+    background-size: cover; /* Esto ajusta la imagen para que cubra todo el fondo */
+    background-position: center; /* Esto centra la imagen en el fondo */
+}

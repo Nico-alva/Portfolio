@@ -1,0 +1,79 @@
+.perfilconteiner {
+
+display: flex;
+justify-content: center;
+padding-top: 50px;
+
+}
+
+.Foto{
+justify-content: center;
+border-radius: 80%;
+border-color: #000;
+border-style: solid;
+margin-right: 100px;
+height: 400px;
+width: 400px;
+
+}
+
+.Sobremi h1{
+margin-top: 80px;
+
+
+}
+
+.Sobremi p{
+margin-top: 80px;
+font-size: 20px;
+
+
+}
+
+
+.Linea {
+
+margin-top: 70px;
+margin-left: 250px;
+border: 0;
+border-top: 3px solid #fff;
+height: 20px;
+width: 60%;
+
+}
+
+.button-container {
+    display: flex;
+    background-color: rgba(0, 73, 144);
+    width: 1300px;
+    height: 40px;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px,
+      rgba(0, 73, 144, 0.5) 5px 10px 15px;
+  }
+  
+  .button {
+    outline: 0 !important;
+    border: 0 !important;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    transition: all ease-in-out 0.3s;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    transform: translateY(-3px);
+  }
+  
+  .icon {
+    font-size: 20px;
+  }
+
